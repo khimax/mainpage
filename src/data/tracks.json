@@ -1,0 +1,62 @@
+[
+  {
+    "title": "alexithymia.",
+    "releaseDate": "2026-07-01",
+    "releaseLink": "",
+    "artwork": "./images/artworks/alexithymia.jpg",
+    "backgroundColor": "#D3DEF0",
+    "textColor": "#1C006F",
+    "altColor": "",
+    "type": "SINGLE",
+    "isCollab": false,
+    "collabers": []
+  },
+  {
+    "title": "nymphaea.",
+    "releaseDate": "2025-03-06",
+    "releaseLink": "https://zvonko.link/227F3D5",
+    "artwork": "./images/artworks/nymphaea.jpeg",
+    "backgroundColor": "#ffffff",
+    "textColor": "#75A765",
+    "altColor": "#74757d",
+    "type": "SINGLE",
+    "isCollab": true,
+    "collabers": ["surtva"]
+  },
+  {
+    "title": "i'm goin insane",
+    "releaseDate": "2025-12-10",
+    "releaseLink": "",
+    "artwork": "./images/artworks/imsgoinsane.jpg",
+    "backgroundColor": "#ABCFE3",
+    "textColor": "#422F3A",
+    "altColor": "",
+    "type": "EP",
+    "isCollab": false,
+    "collabers": []
+  },
+  {
+    "title": "OFFER",
+    "releaseDate": "2025-09-18",
+    "releaseLink": "",
+    "artwork": "./images/artworks/offer.gif",
+    "backgroundColor": "#9CFEE6",
+    "textColor": "#002840",
+    "altColor": "",
+    "type": "SINGLE",
+    "isCollab": false,
+    "collabers": []
+  },
+  {
+    "title": "YOU ARE FIRED",
+    "releaseDate": "2025-09-15",
+    "releaseLink": "",
+    "artwork": "./images/artworks/youarefired.jpg",
+    "backgroundColor": "#100D10",
+    "textColor": "#E2D0F7",
+    "altColor": "",
+    "type": "SINGLE",
+    "isCollab": false,
+    "collabers": []
+  }
+]
