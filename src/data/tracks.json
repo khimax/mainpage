@@ -1,4 +1,16 @@
 [
+    {
+    "title": "out_of_bounds",
+    "releaseDate": "2026-07-01",
+    "releaseLink": "https://zvonko.link/2AE7328",
+    "artwork": "./images/artworks/out_of_bounds.jpg",
+    "backgroundColor": "#000000",
+    "textColor": "#F8F8F8",
+    "altColor": "",
+    "type": "SINGLE",
+    "isCollab": false,
+    "collabers": []
+  },
   {
     "title": "alexithymia.",
     "releaseDate": "2026-07-01",

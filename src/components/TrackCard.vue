@@ -12,7 +12,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="track-card" :id="isLatest ? 'latest' : undefined" :style="{ backgroundColor: track.backgroundColor }">
+  <div data-zone class="track-card" :id="isLatest ? 'latest' : undefined" :style="{ backgroundColor: track.backgroundColor }">
     <div class="container">
       <div class="track-header">
         <p class="title" :style="{color: track.backgroundColor, backgroundColor: track.textColor}">{{ track.title }}</p>

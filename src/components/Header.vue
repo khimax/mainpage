@@ -12,7 +12,7 @@ defineProps({
 </script>
 
 <template>
-  <div class="header-card" :style="{backgroundColor}">
+  <div data-zone class="header-card" :style="{backgroundColor}">
     <div class="header">
         <img
         class="logo"
